@@ -15,6 +15,7 @@ claude-tools/
 | Skill | Description |
 |-------|-------------|
 | `shopify-liquid-developer` | Shopify Liquid theme development: sections, blocks, snippets, and templates |
+| `shopify-liquid-shipping-estimator` | Shipping cost estimator sections for Shopify product pages (PDP) |
 | `skill-creator` | Guide for creating effective skills that extend Claude's capabilities |
 | `mcp-builder` | Build high-quality MCP servers to integrate external APIs with LLMs |
 | `vertical-slice-lambda-developer` | AWS Lambda functions using Vertical Slice Architecture with Node.js + TypeScript |
