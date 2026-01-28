@@ -14,6 +14,7 @@ claude-tools/
 
 | Skill | Description |
 |-------|-------------|
+| `js-style-guide` | JavaScript code style guidelines: no semicolons, arrow functions, ES modules, async/await |
 | `shopify-liquid-developer` | Shopify Liquid theme development: sections, blocks, snippets, and templates |
 | `shopify-liquid-shipping-estimator` | Shipping cost estimator sections for Shopify product pages (PDP) |
 | `skill-creator` | Guide for creating effective skills that extend Claude's capabilities |
